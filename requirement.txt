@@ -1,0 +1,10 @@
+ipython
+jupyter
+numpy
+pandas
+Pillow
+resnet-pytorch
+scikit-learn
+scipy
+torch
+torchvision
