@@ -7,4 +7,5 @@ resnet-pytorch
 scikit-learn
 scipy
 torch
+tqdm
 torchvision
